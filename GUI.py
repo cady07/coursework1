@@ -1,4 +1,4 @@
-import sqlite3 #cady 
+import sqlite3 
 import pyotp
 import qrcode
 import io
