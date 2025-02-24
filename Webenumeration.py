@@ -1,4 +1,4 @@
-import argparse #cadythapa
+import argparse 
 import socket
 import requests
 import dns.resolver
